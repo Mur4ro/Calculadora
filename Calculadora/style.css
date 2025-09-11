@@ -1,0 +1,33 @@
+#box{
+    text-align: center;
+    margin-top: 150px;
+    border-radius: 10px;
+    border-style:none ;
+    box-shadow: 0px 10px 20px black;
+    margin-left: 480px;
+    margin-right: 480px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: greenyellow;
+    
+}
+.numero{
+   width: 90px;
+   height: 23px;
+   margin-left: 5px;
+   background-color: green;
+   border-style: none;
+   color: white;
+}
+body{
+    font-family: system-ui;
+}
+input[type="submit"]{
+    background-color:green;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    border-style: none;
+
+}
